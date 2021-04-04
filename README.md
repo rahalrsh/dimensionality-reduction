@@ -16,5 +16,5 @@ The purpose of this project is to explore how dimensionality reduction and clust
 
 
 ## Datasets Used
-1) Breast Cancer
-2) Wine Quality
+1) [Breast Cancer](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
+2) [Wine Quality](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
